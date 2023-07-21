@@ -84,10 +84,10 @@ allowed for the communication and Y is the number of bundles (Combinations) used
 An output text file contains the following 
 
     project id    reward
-0       1211.0 -0.444988
-1       2141.0 -0.057202
-2       1356.0  0.331482
-3       2183.0  0.343395
+0       1211.0 -0.444988<br>
+1       2141.0 -0.057202<br>
+2       1356.0  0.331482<br>
+3       2183.0  0.343395<br>
 4        433.0 -0.263659
 5        192.0  0.232709
 6       1889.0  0.302624
