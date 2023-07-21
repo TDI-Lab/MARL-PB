@@ -122,7 +122,7 @@ Voter 8: ID 704; Choice (2141.0, 1356.0, 2183.0, 433.0, 193.0, 2092.0, 2121.0, 1
 
 Consensus Details<br>
 
-Concensus reached after 56 iterations.<br>
+Consensus reached after 56 iterations.<br>
 Max degree: 6 Number of valid combinations: 49 Using random reward sending strategy.<br>
 There is 1 opinion after all iterations.<br>
 (2141.0, 1356.0, 2183.0, 192.0, 1889.0, 193.0, 1347.0, 1905.0, 2092.0, 2121.0, 191.0) count: 50<br>
