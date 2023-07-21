@@ -1,15 +1,17 @@
 # MARL-PB
 
-**=================================================================
+=================================================================
 Participatory Budgeting (PB) using Reinforcement Learning - Code Repository
 =================================================================
 
 This document describes the initial release of the code to simulate
 the PB process and reach a consensus in real-world datasets from 
 http://pabulib.org/ for three areas - Ursynow, Ruda and Rembertow
+
+
 =================================================================
 File Organization
-=================================================================**
+=================================================================
 
 
 The code repository 
