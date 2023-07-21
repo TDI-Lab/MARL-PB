@@ -38,7 +38,7 @@ Contains  .txt files for each experiment settings -
 different action spaces and different indegree of the communication graph
 
 
-=================================================================
+
 Running the code
 =================================================================
 
@@ -47,7 +47,7 @@ In every area based folder, open the RL_varying_parameters.ipynb and run each ce
 You may change the parameters and run
 
 
-=================================================================
+
 Changing parameters
 =================================================================
 The code contains the following sections for setting the hyperparameters
@@ -75,7 +75,7 @@ communicated = reward communicated in the information exchange - bundles with mi
 maxdegree =  maximum indegree
 
 
-=================================================================
+
 Output Format
 =================================================================
 
